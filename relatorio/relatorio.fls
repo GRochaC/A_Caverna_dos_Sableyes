@@ -1,8 +1,8 @@
-PWD /home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes
+PWD /home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio.tex
+INPUT /home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex
 OUTPUT relatorio.log
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -158,6 +158,11 @@ INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT ./imagens/as_vert_cor.jpg
+INPUT ./imagens/as_vert_cor.jpg
+INPUT ./imagens/as_vert_cor.jpg
+INPUT ./imagens/as_vert_cor.jpg
+INPUT ./imagens/as_vert_cor.jpg
 INPUT /usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
@@ -166,6 +171,11 @@ INPUT ./relatorio.toc
 INPUT relatorio.toc
 INPUT /usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT relatorio.toc
+INPUT ./imagens/sableye.png
+INPUT ./imagens/sableye.png
+INPUT ./imagens/sableye.png
+INPUT ./imagens/sableye.png
+INPUT ./imagens/sableye.png
 INPUT relatorio.aux
 INPUT ./relatorio.out
 INPUT ./relatorio.out

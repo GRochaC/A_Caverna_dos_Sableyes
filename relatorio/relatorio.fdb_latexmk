@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1725008699.79085 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio.tex" "relatorio.pdf" "relatorio" 1725008700.81571 0
-  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio.tex" 1725008699.47655 800 9e71e667e5f7458f491ccb29d627f97a ""
+["pdflatex"] 1725012613.00196 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1725012613.99779 0
+  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" 1725012612.77325 1531 e779036c74d797806dd7511f1ca59cbe ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -85,10 +85,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1711968568 5474190 6dcabce74a8cc1ac6c708b578cc057af ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1711968734 8222899 bf18473ddc4fe69df9591c4d239c647a ""
   "/usr/local/texlive/2024/texmf.cnf" 1711968553.13554 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "relatorio.aux" 1725008700.75247 755 7bcf86093fd6a5eba81bfa0fd57da980 "pdflatex"
-  "relatorio.out" 1725008700.75347 763 34062cb0983dac18deaa23069df46697 "pdflatex"
-  "relatorio.tex" 1725008699.47655 800 9e71e667e5f7458f491ccb29d627f97a ""
-  "relatorio.toc" 1725008700.75447 388 11ad560a64328e40a749f99092cb8ac9 "pdflatex"
+  "imagens/as_vert_cor.jpg" 1660063336 143335 2045d844bafca73e2c907953591178e0 ""
+  "imagens/sableye.png" 1725011387.50601 44148 89b371b53849397b15c99486bea2bf0a ""
+  "relatorio.aux" 1725012613.91525 873 9ff372e55700249c310a23b5a6d38502 "pdflatex"
+  "relatorio.out" 1725012613.91625 763 34062cb0983dac18deaa23069df46697 "pdflatex"
+  "relatorio.tex" 1725012612.77325 1531 e779036c74d797806dd7511f1ca59cbe ""
+  "relatorio.toc" 1725012613.91725 388 11ad560a64328e40a749f99092cb8ac9 "pdflatex"
   (generated)
   "relatorio.aux"
   "relatorio.log"

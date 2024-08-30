@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  30 AUG 2024 06:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.1)  30 AUG 2024 07:10
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio.tex
-(/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio.tex
+**/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex
+(/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -316,13 +316,25 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
+<imagens/as_vert_cor.jpg, id=24, 170.7981pt x 157.0668pt>
+File: imagens/as_vert_cor.jpg Graphic file (type jpg)
+<use imagens/as_vert_cor.jpg>
+Package pdftex.def Info: imagens/as_vert_cor.jpg  used on input line 24.
+(pdftex.def)             Requested size: 172.5pt x 158.63141pt.
+ [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./relatorio.toc)
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./imagens/as_vert_cor.jpg>] (./relatorio.toc)
 \tf@toc=\write4
 \openout4 = `relatorio.toc'.
 
- [2] [3] (./relatorio.aux)
+ [2]
+<imagens/sableye.png, id=45, 60.225pt x 60.225pt>
+File: imagens/sableye.png Graphic file (type png)
+<use imagens/sableye.png>
+Package pdftex.def Info: imagens/sableye.png  used on input line 47.
+(pdftex.def)             Requested size: 86.25pt x 86.258pt.
+ [3 <./imagens/sableye.png>] (./relatorio.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
@@ -331,18 +343,18 @@ Package rerunfilecheck Info: File `relatorio.out' has not changed.
 (rerunfilecheck)             Checksum: 34062CB0983DAC18DEAA23069DF46697;763.
  ) 
 Here is how much of TeX's memory you used:
- 11119 strings out of 474104
- 167855 string characters out of 5743474
- 1929493 words of memory out of 5000000
- 33356 multiletter control sequences out of 15000+600000
+ 11139 strings out of 474104
+ 168366 string characters out of 5743474
+ 1930493 words of memory out of 5000000
+ 33375 multiletter control sequences out of 15000+600000
  564233 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,408b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,418b,446s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on relatorio.pdf (3 pages, 72085 bytes).
+Output written on relatorio.pdf (3 pages, 264767 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 80 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
