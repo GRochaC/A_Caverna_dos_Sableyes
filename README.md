@@ -9,7 +9,7 @@ Trabalho 1 da disciplina "CIC202 - Programação Concorrente". O Trabalho visa o
    ```
    gcc -o s -pthread sableyes.c
    ```
-2. Execute o executável:
+2. Execute o programa:
    ```
    ./s
    ```
