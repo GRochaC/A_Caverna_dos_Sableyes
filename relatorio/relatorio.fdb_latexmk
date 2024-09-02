@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1725020681.23061 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1725020681.9773 0
-  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" 1725020680.9202 2417 88476fee56fcd57feabb26287fc9c096 ""
+["pdflatex"] 1725238191.93741 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1725238194.76737 0
+  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" 1725238191.24687 2429 dfdd19d7ff5e30e72ce3072e4a7eb957 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -30,6 +30,7 @@
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty" 1576625341 40635 c40361e206be584d448876bba8a64a3b ""
@@ -91,10 +92,10 @@
   "/usr/local/texlive/2024/texmf.cnf" 1711968553.13554 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "imagens/as_vert_cor.jpg" 1660063336 143335 2045d844bafca73e2c907953591178e0 ""
   "imagens/sableye.png" 1725011387.50601 44148 89b371b53849397b15c99486bea2bf0a ""
-  "relatorio.aux" 1725020681.88319 873 9ff372e55700249c310a23b5a6d38502 "pdflatex"
-  "relatorio.out" 1725020681.88419 763 34062cb0983dac18deaa23069df46697 "pdflatex"
-  "relatorio.tex" 1725020680.9202 2417 88476fee56fcd57feabb26287fc9c096 ""
-  "relatorio.toc" 1725020681.88419 388 11ad560a64328e40a749f99092cb8ac9 "pdflatex"
+  "relatorio.aux" 1725238194.54762 873 9ff372e55700249c310a23b5a6d38502 "pdflatex"
+  "relatorio.out" 1725238194.54862 763 34062cb0983dac18deaa23069df46697 "pdflatex"
+  "relatorio.tex" 1725238191.24687 2429 dfdd19d7ff5e30e72ce3072e4a7eb957 ""
+  "relatorio.toc" 1725238194.54962 388 11ad560a64328e40a749f99092cb8ac9 "pdflatex"
   (generated)
   "relatorio.aux"
   "relatorio.log"
