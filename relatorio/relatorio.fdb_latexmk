@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1725245258.63495 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1725245261.39015 0
-  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" 1725245258.00705 7307 5c3b518813009141a79782d64c5a2af5 ""
+["pdflatex"] 1725245516.34424 "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" "relatorio.pdf" "relatorio" 1725245518.95778 0
+  "/home/guilherme/Documentos/UnB/PC/A_Caverna_dos_Sableyes/relatorio/relatorio.tex" 1725245516.34095 7421 95fbab475c98e66d0bf4041ba7c0e25e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -99,10 +99,10 @@
   "/usr/local/texlive/2024/texmf.cnf" 1711968553.13554 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
   "imagens/as_vert_cor.jpg" 1660063336 143335 2045d844bafca73e2c907953591178e0 ""
   "imagens/sableye.png" 1725011387.50601 44148 89b371b53849397b15c99486bea2bf0a ""
-  "relatorio.aux" 1725245261.14103 1115 a162d4032cc0c788a9c74a6f5496ea84 "pdflatex"
-  "relatorio.out" 1725245261.14303 1023 f108a92f7b649fa501cc90e0c5612cb9 "pdflatex"
-  "relatorio.tex" 1725245258.00705 7307 5c3b518813009141a79782d64c5a2af5 ""
-  "relatorio.toc" 1725245261.14403 548 5cb57a3ce0474563529d99ba0504fa0a "pdflatex"
+  "relatorio.aux" 1725245518.71394 1115 a162d4032cc0c788a9c74a6f5496ea84 "pdflatex"
+  "relatorio.out" 1725245518.71594 1023 f108a92f7b649fa501cc90e0c5612cb9 "pdflatex"
+  "relatorio.tex" 1725245516.34095 7421 95fbab475c98e66d0bf4041ba7c0e25e ""
+  "relatorio.toc" 1725245518.71694 548 5cb57a3ce0474563529d99ba0504fa0a "pdflatex"
   (generated)
   "relatorio.aux"
   "relatorio.log"
