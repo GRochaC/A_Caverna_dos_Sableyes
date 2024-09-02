@@ -74,7 +74,7 @@ void * sableye(void *arg) {
                     // comendo
                     sleep(((int) rand() % 3)+1);
 
-                    printf("O sableye %d comeu %d joias. Há %d joias restantes.\n",id,joiasComidas,qntJoias[idx]-joiasComidas);
+                    printf("O sableye %d comeu %d joia(s). Há %d joia(s) restante(s).\n",id,joiasComidas,qntJoias[idx]-joiasComidas);
                     qntJoias[idx] -= joiasComidas;
 
                 } else {
@@ -95,6 +95,7 @@ void * terremoto(void *arg) {
 
         // terremoto
         comecoTerremoto = true;
+        // regiao critica
         pthread_mutex_lock(&mutex);
             printf("\n");
             printf("Um terremoto está fazendo a terra tremer! Novas joias foram reveladas.\n");
@@ -103,7 +104,7 @@ void * terremoto(void *arg) {
             for(int i = 0; i < NUMCAM; i++) {
                 int joiasReveladas = ((int) rand() % 10) +1;
                 qntJoias[i] += joiasReveladas;
-                printf("%d joias reveladas em %d!\n", joiasReveladas, i);
+                printf("%d joia(s) revelada(s) em %d!\n", joiasReveladas, i);
             }
 
             // fim do terremoto
